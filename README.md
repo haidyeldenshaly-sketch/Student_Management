@@ -113,23 +113,13 @@ A UML diagram is included showing:
 3. Run the program
 4. Use the menu to interact with the system
 
----
 
-## 📁 Files Included
 
-* `main.cpp`
-* UML Diagram (PDF / Image)
-
----
 
 ## 👩‍💻 Author
 
 Haidy Sobhy
 
----
 
-## ⚠️ Notes
 
-This is an individual assignment. All code is written independently.
 
----
