@@ -124,7 +124,7 @@ A UML diagram is included showing:
 
 ## 👩‍💻 Author
 
-Mirna Shawky
+Haidy Sobhy
 
 ---
 
